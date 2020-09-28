@@ -1,8 +1,8 @@
 # Web Scraping with Python: Collecting More Data from the Modern Web
 
-Code examples from 
+Code examples from the book
 "Web Scraping with Python: Collecting More Data from the Modern Web" 
-book by Ryan Mitchell.
+by Ryan Mitchell.
 
 https://www.oreilly.com/catalog/errata.csp?isbn=9781491985571
 
